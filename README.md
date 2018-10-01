@@ -1,5 +1,5 @@
 # hello-world
-/b/ learning how to git that hub /b/
+### learning how to git that hub
 
 
 Somebody once told me the world was gonna roll me
